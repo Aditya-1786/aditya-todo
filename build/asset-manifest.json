@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-micro/static/css/main.62341846.css",
+    "main.js": "/todo-micro/static/js/main.1128b86b.js",
+    "static/js/27.bfc94242.chunk.js": "/todo-micro/static/js/27.bfc94242.chunk.js",
+    "static/media/6.jpg": "/todo-micro/static/media/6.ea0bf164142e1c468c67.jpg",
+    "static/media/logo.svg": "/todo-micro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/todo-micro/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.62341846.css",
+    "static/js/main.1128b86b.js"
+  ]
+}
